@@ -1,3 +1,7 @@
 # cloud_nine
-Sales prediction for pharmaceutical distribution companies by time series analysis
-Created three time series models for the sales prediction of pharmaceutical distribution companies
+Created three time series models named SARIMA, SVR and Prophet for the sales prediction of pharmaceutical distribution companies.
+Dataset was downloaeded from Kaggle provided by Milan Zdravković.
+
+# Code used:
+Python 3.9
+
